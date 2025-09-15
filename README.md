@@ -73,7 +73,7 @@ A comprehensive web application for managing tailor shops, orders, customers, an
 
 ### Prerequisites
 
-- Node.js 18+ 
+- Node.js 18+  
 - npm or yarn
 - Firebase project
 
